@@ -16,8 +16,8 @@ The complete submission package includes:
 
  The Source Code: The Jupyter Notebooks (.ipynb) containing all the Python code for data processing and statistical regression.
  
+E : nasra.b.nur@gmail.com 
 
-E : nasra.b.nur@gmail.com  
 L : www.linkedin.com/in/nasranur
 
 G : https://github.com/Cybsty
